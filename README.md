@@ -45,4 +45,4 @@ Através da minha análise, identifiquei pontos críticos para a estratégia da 
 3. Utiliza os filtros de **Ano**, **País** e **Produto** no topo do dashboard para explorar as diferentes camadas de dados.
 
 ---
-📫 **Contacto:** [O Teu Nome/Link para LinkedIn]
+📫 **Contacto:** [Rayana Rocha/http://linkedin.com/in/rayanarocha]
